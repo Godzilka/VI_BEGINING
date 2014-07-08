@@ -1,0 +1,7 @@
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\bin\Debug\VI.exe
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\bin\Debug\VI.pdb
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\obj\Debug\VI.Form1.resources
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\obj\Debug\VI.Properties.Resources.resources
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\obj\Debug\VI.csproj.GenerateResource.Cache
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\obj\Debug\VI.exe
+C:\Users\Vahe\Desktop\VI\VI_BEGINING\VI\VI\obj\Debug\VI.pdb
